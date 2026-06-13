@@ -1,4 +1,4 @@
-#AmyBX Computer Vision Lab
+# AmyBX Computer Vision Lab
 
 AmyBX Computer Vision Lab is a computer vision research group focusing on small object detection, object tracking, camouflaged object detection, and related visual perception tasks.
 
